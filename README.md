@@ -1,1 +1,2 @@
-ApparatusDiscord
+# Apparatus
+It's a discord bot.
